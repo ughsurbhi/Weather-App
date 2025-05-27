@@ -1,36 +1,33 @@
-#Weather App 🌦️
+# Weather App 🌦️
+
 A simple and elegant weather application that provides real-time weather information for any location.
 
-#Features ✨
-Current Weather: Displays temperature, humidity, wind speed, and weather conditions.
+## Features ✨
 
-Location Search: Search for weather information by city name.
+- **Current Weather**: Displays temperature, humidity, wind speed, and weather conditions
+- **Location Search**: Search for weather information by city name
+- **Responsive Design**: Works seamlessly on both desktop and mobile devices
+- **Weather Icons**: Visual representation of weather conditions (sunny, rainy, cloudy, etc.)
+- **Clean UI**: Minimalist and user-friendly interface
 
-Responsive Design: Works seamlessly on both desktop and mobile devices.
+## Technologies Used 🛠️
 
-Weather Icons: Visual representation of weather conditions (sunny, rainy, cloudy, etc.).
+- **Frontend**: HTML, CSS, JavaScript
+- **API**: [OpenWeatherMap API](https://openweathermap.org/api) for weather data
 
-Clean UI: Minimalist and user-friendly interface.
+## How to Use 🚀
 
-#Technologies Used 🛠️
-Frontend: HTML, CSS, JavaScript
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ughsurbhi/Weather-App.git
+2. Open index.html in your browser.
+3. Enter a city name in the search bar and hit "Search" to get the current weather.
 
-#API: OpenWeatherMap API for weather data
+## Contributions🤝
+-Fork the repository
+-Create your feature branch (git checkout -b feature/AmazingFeature)
+-Commit your changes (git commit -m 'Add some AmazingFeature')
+-Push to the branch (git push origin feature/AmazingFeature)
+-Open a Pull Request
 
-#How to Use 🚀
-Clone the repository:
-
-bash
-git clone https://github.com/ughsurbhi/Weather-App.git
-Open index.html in your browser.
-
-Enter a city name in the search bar and hit "Search" to get the current weather.
-
-#Live Demo 🌐
-Check out the live version here.
-https://weather-app-three-phi-49.vercel.app/
-
-#Contributing 🤝
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-Made with ❤️ by Surbhi
+##Made with ❤️ by Surbhi!
